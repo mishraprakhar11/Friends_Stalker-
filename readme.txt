@@ -28,4 +28,6 @@ Hello guys,
     Read the codeforces blog as well since it provide a detailed explaination of script.
     Cheers!
     
-     
+    Credits : I have made codeforces(windows).py script by taking help from here :
+    https://gist.github.com/BoppreH/4000505
+    i want to give boppreh credits for windows notification code ! thanks.
